@@ -33,4 +33,8 @@ npm start
 |cristian|velasquez|
 |jose|smith|
 
+### Nuevos cambios al codigo 
 Esto es un cambio que estoy realizando 
+
+hoy 5 de agosto realizo un nuevo cambio al codigo. 
+nuevo cambio realizado 
