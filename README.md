@@ -36,6 +36,7 @@ Este es un firulais, es decir un libre de pulgas
 |cristian|velasquez|
 |jose|smith|
 
+esto es un cambio retomo que realizo para probar conflictos 
 ### Nuevos cambios al codigo 
 Esto es un cambio que estoy realizando 
 
